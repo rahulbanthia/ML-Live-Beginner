@@ -18,7 +18,7 @@ Or
 
 ```bash
 $ pip install -r requirements.txt
-$ juypter notebook Outline.ipynb
+$ jupyter notebook Outline.ipynb
 ```
 
 ## Recommended reading
